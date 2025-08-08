@@ -30,7 +30,6 @@ Target variable: `Diagnosis` (M = Malignant, B = Benign)
 - **HTML/CSS (Basic)**
 - **AWS EC2 (Amazon Linux AMI)**
 
-## 🌐 Flask Application Routes
+## 🌐 Flask Application 
+<img width="1494" height="864" alt="Screenshot 2025-08-08 231317" src="https://github.com/user-attachments/assets/2ad5a0cf-7b44-4533-a0fe-b18459eab637" />
 
-- `/` - Home page (input form)
-- `/predict` - POST endpoint for prediction and rendering output
